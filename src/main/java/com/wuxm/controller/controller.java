@@ -10,7 +10,7 @@ public class controller {
 
     @RequestMapping(value = "/string", method = RequestMethod.GET)
     public String getString(){
-        return "修改测试";
+        return "修改测试2222";
     }
 
 }
